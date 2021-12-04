@@ -1,0 +1,11 @@
+{
+   "manifest_version": 2,
+   "name": "My Random Password Generator",
+   "version": "1.0",
+   "description": "A chrome extension that generates random passwords.",
+ 
+   "browser_action": {
+     "popup": "popup.html",
+     "default_popup": "popup.html"
+   }
+ }
