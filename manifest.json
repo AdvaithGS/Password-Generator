@@ -2,11 +2,12 @@
    "manifest_version": 2,
    "name": "Random Password Generator",
    "icons": {
-    "16": "assets/key.png"
+    "16": "assets/16.png",
+    "64": "assets/64.png",
+    "128": "assets/128.png"
   },
    "version": "1.0",
    "description": "A chrome extension that generates random passwords.",
- 
    "browser_action": {
      "popup": "popup.html",
      "default_popup": "popup.html"
