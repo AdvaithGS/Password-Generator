@@ -2,20 +2,24 @@ body{
     color:rgb(0, 102, 255);
     background-color: white;
     font-family:'Assistant';
-    font-size:1em;
-    width: 250px;
-    height:40px;
+    font-size:1.1em;
+    width: 300px;
+    height: 45px;
 }
 #generate{
     border-radius: 5px;
-    background-color :white;
-    color : rgb(0, 102, 255);
+    background-color :rgb(59, 137, 255);
+    padding: 4px;
+    color : white;
     border-width: 0.01px;
+    width: 70px;
     border-color:rgb(11, 120, 229);
+    justify-content: center;
 }
 input{
     border-radius:2px;
+    padding-top: 5px;
+    padding-bottom:5px;
     border-color: rgb(51, 153, 255);
     color:rgb(0, 102, 255);
-    margin-right: 5px;
 }
