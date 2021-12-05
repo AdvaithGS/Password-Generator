@@ -1,8 +1,21 @@
 body{
-    color:white;
-    background-color: darkslategray;
+    color:rgb(0, 102, 255);
+    background-color: white;
     font-family:'Assistant';
     font-size:1em;
     width: 250px;
     height:40px;
+}
+#generate{
+    border-radius: 5px;
+    background-color :white;
+    color : rgb(0, 102, 255);
+    border-width: 0.01px;
+    border-color:rgb(51, 153, 255);
+}
+input{
+    border-radius:2px;
+    border-color: rgb(51, 153, 255);
+    color:rgb(0, 102, 255);
+    margin-right: 5px;
 }
