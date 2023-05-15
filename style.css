@@ -1,9 +1,9 @@
 body{
     color:rgb(0, 102, 255);
     background-color: white;
-    font-family:'Assistant';
+    font-family:'Assistant',sans-serif;
     font-size:1.05em;
-    width: 300px;
+    width: 350px;
     height: 45px;
 }
 #generate{
@@ -12,9 +12,10 @@ body{
     padding: 4px;
     color : white;
     border-width: 0.01px;
-    width: 70px;
+    width: 130px;
     border-color:rgb(11, 120, 229);
     justify-content: center;
+    margin-left:5px;
 }
 input{
     border-radius:4px;
